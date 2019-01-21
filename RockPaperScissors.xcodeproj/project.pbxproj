@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA5C14D521F51D5700EB8BA7 /* SignEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5C14D421F51D5700EB8BA7 /* SignEnum.swift */; };
+		CA5C14D721F529D400EB8BA7 /* GameStateEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5C14D621F529D400EB8BA7 /* GameStateEnum.swift */; };
 		CABE369E21F26CB800E952F0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CABE369D21F26CB800E952F0 /* AppDelegate.swift */; };
 		CABE36A021F26CB800E952F0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CABE369F21F26CB800E952F0 /* ViewController.swift */; };
 		CABE36A321F26CB800E952F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CABE36A121F26CB800E952F0 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CA5C14D421F51D5700EB8BA7 /* SignEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignEnum.swift; sourceTree = "<group>"; };
+		CA5C14D621F529D400EB8BA7 /* GameStateEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameStateEnum.swift; sourceTree = "<group>"; };
 		CABE369A21F26CB800E952F0 /* RockPaperScissors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RockPaperScissors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CABE369D21F26CB800E952F0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CABE369F21F26CB800E952F0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 				CABE36A421F26CBB00E952F0 /* Assets.xcassets */,
 				CABE36A621F26CBB00E952F0 /* LaunchScreen.storyboard */,
 				CABE36A921F26CBB00E952F0 /* Info.plist */,
+				CA5C14D421F51D5700EB8BA7 /* SignEnum.swift */,
+				CA5C14D621F529D400EB8BA7 /* GameStateEnum.swift */,
 			);
 			path = RockPaperScissors;
 			sourceTree = "<group>";
@@ -136,6 +142,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				CABE36A021F26CB800E952F0 /* ViewController.swift in Sources */,
+				CA5C14D721F529D400EB8BA7 /* GameStateEnum.swift in Sources */,
+				CA5C14D521F51D5700EB8BA7 /* SignEnum.swift in Sources */,
 				CABE369E21F26CB800E952F0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
