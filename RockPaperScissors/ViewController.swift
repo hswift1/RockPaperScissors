@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+   // @IBOutlet weak var computersLabel: UILabel!
+    //@IBOutlet weak var computerLabel: UILabel!
     @IBOutlet weak var computersLabel: UILabel!
     @IBOutlet weak var winLoseOrDraw: UILabel!
     @IBOutlet weak var rockButton: UIButton!

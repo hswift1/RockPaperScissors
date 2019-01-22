@@ -82,7 +82,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="cpmutersLabel" destination="xjN-ga-mXL" id="oxY-bJ-RV5"/>
+                        <outlet property="computersLabel" destination="xjN-ga-mXL" id="CBp-tJ-Q8r"/>
                         <outlet property="paperButton" destination="Nvz-BG-j1t" id="H1V-dH-uGv"/>
                         <outlet property="playAgainButton" destination="3h0-s0-frl" id="tIx-0i-g7F"/>
                         <outlet property="rockButton" destination="wYi-bd-7QI" id="cJ0-C6-km8"/>
